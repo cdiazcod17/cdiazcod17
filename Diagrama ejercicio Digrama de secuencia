@@ -73,7 +73,7 @@
             <mxPoint x="360" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bt0F2efmgtUL6aca-4Gd-29" value="mostrarConfirmacion()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" source="bt0F2efmgtUL6aca-4Gd-30" target="bt0F2efmgtUL6aca-4Gd-4">
+        <mxCell id="bt0F2efmgtUL6aca-4Gd-29" value="mostrarConfirmacion()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" source="bt0F2efmgtUL6aca-4Gd-30" target="bt0F2efmgtUL6aca-4Gd-22">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="290.5" y="499" as="sourcePoint" />
             <mxPoint x="150" y="499" as="targetPoint" />
